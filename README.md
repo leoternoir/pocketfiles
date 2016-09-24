@@ -77,9 +77,12 @@ $ ./install-pockethome
 
 ## Dotfiles setup
 
-If you didn't yet, you can now clone this repo to run the dotfiles setup.
+If you didn't yet, you can now clone this repo to run the dotfiles setup. Inspired by Mathias Bynens' awesome [dotfiles](https://github.com/mathiasbynens/dotfiles).
 
-This will come later.
+```sh
+$ git clone git@github.com:leoternoir/pocketfiles.git && cd pocketfiles    # Clone this repo
+$ source setup.sh    # Execute the setup script
+```
 
 ## License
 
