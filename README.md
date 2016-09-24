@@ -63,7 +63,7 @@ Change the `PasswordAuthentification` setting to `no` and restart the ssh servic
 
 ```sh
 $ sudo service ssh restart
-``
+```
 
 ### Home screen
 
