@@ -84,6 +84,8 @@ $ git clone git@github.com:leoternoir/pocketfiles.git && cd pocketfiles    # Clo
 $ source setup.sh    # Execute the setup script
 ```
 
+You can add custom commands by adding them to `~/.extra`, it will be sourced as well.
+
 ## License
 
 MIT.
