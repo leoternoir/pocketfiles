@@ -86,6 +86,21 @@ $ source setup.sh    # Execute the setup script
 
 You can add custom commands by adding them to `~/.extra`, it will be sourced as well.
 
+## Applications
+
+A list of useful apps working on Pocket C.H.I.P.
+Installation guide coming soon.
+
+### GUI Applications
+
+- [Iceweasel](https://wiki.debian.org/fr/Iceweasel)
+- More to come soon
+
+### CLI Applications
+
+- Most [NodeJS](https://nodejs.org/en/)-based apps
+- More to come soon
+
 ## License
 
 MIT.
