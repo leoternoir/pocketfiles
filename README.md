@@ -63,6 +63,16 @@ Change the `PasswordAuthentification` setting to `no` and restart the ssh servic
 
 ```sh
 $ sudo service ssh restart
+``
+
+### Home screen
+
+You can change the default home screen and get the wonderful [Marshmallow edition](https://bbs.nextthing.co/t/pocket-home-marshmallow-edition/6579/1)
+
+```sh
+$ wget -O install-pockethome http://bit.ly/29uWueR
+$ chmod +x install-pockethome
+$ ./install-pockethome
 ```
 
 ## Dotfiles setup
