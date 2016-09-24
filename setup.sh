@@ -8,10 +8,6 @@ git pull origin master
 # Install the missing packages
 source packages.sh
 
-# Create and source the symlinks
-source symlink.sh
-source .bash_profile
-
 # Sync the files to your home folder
 function doIt() {
   rsync --exclude ".git/" \

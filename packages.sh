@@ -10,6 +10,7 @@ sudo apt-get upgrade
 # Install useful packages
 sudo apt-get install \
   git \
+  rsync \
   build-essential \
   openssh-server \
   xinput-calibrator \
